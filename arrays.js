@@ -16,3 +16,8 @@ numbers.splice(2, 1, 3);
 // Turn Array Booleans into a string and store the string in a variable called BooleanString
 // The value of BooleanString is 'true,false,false,true'
 var BooleanString = Booleans.join();
+
+// demonstrate understanding of index positions in the file
+characters[2] // This is the third element in Array charactesr, the index of which is 2 and the value of which is Bruto.
+numbers[0] // This is the first element in Array numbers, the index of which is 0 and the value of which is 1. 
+Booleans[1] // This is the second element in Array Booleans, the index of which is 1 and the value of which is false. 
